@@ -11,8 +11,8 @@
     <groupId>esprit</groupId>
     <artifactId>candidat</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>candidat</name>
-    <description>candidat</description>
+    <name>job</name>
+    <description>job</description>
     <url/>
     <licenses>
         <license/>
